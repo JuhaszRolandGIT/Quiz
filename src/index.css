@@ -194,7 +194,7 @@ header h1 {
   margin-top: 2rem;
 }
 
-#skip-action button {
+/* #skip-action button {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 1rem;
   border: none;
@@ -333,4 +333,4 @@ header h1 {
     opacity: 1;
     transform: translateY(0);
   }
-}
+} */
